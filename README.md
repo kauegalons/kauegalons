@@ -1,8 +1,5 @@
 <h2 align="left">About me</h2>
 
-
-<img align="right" width="338" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
-
 ```rust
 fn main() {
     let name = 'Kauê Galon Silva';
