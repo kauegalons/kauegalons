@@ -76,6 +76,6 @@ fn main() {
 
 ###
 
-![Snake animation](https://github.com/kauegalons/kauegalons/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kauegalons/kauegalons/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
