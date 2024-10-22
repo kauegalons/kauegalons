@@ -75,7 +75,7 @@ fn main() {
 </div>
 
 ###
-<!--
+
 ![Snake animation](https://github.com/kauegalons/kauegalons/blob/output/github-contribution-grid-snake.svg)
--->
+
 ###
