@@ -7,6 +7,7 @@ def main():
 
     location = "Curitiba, Paraná, Brazil"
     company = "Wipro"
+    Project = "Oboarding Director at HP"
 
 ```
 
