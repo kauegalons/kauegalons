@@ -1,19 +1,18 @@
 <h2 align="left">About me</h2>
 
 ```rust
-fn main() {
-    let name = 'Kauê Galon Silva';
-    let acknowledgements = 'Computer Scientist';
+def main():
+    name = "Kauê Galon Silva"
+    acknowledgements = "Computer Scientist"
 
-    let location = 'Curitiba, Paraná, Brazil';
-    let company = 'Wipro';
-}
+    location = "Curitiba, Paraná, Brazil"
+    company = "Wipro"
 
 ```
 
 ###
 
-<p align="left">- Currently working with legacy language (Cobol) and Python on projects for Bradesco Bank.<br>- 7th semester of Computer Science.<br>- Interested in and studying Machine Learning and Data Analysis with Python. </p>
+<p align="left">- Currently working with Java and Python on the printer onboarding project at HP.<br>- 8th semester of Computer Science.<br>- Interested in and studying Machine Learning and Data Analysis with Python. </p>
 
 ###
 
