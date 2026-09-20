@@ -13,7 +13,7 @@ def main():
 
 ###
 
-<p align="left">- Currently working with Java, SpringBoot and Python on the HCM at Senior Sitemas.<br>- Bachelor of Computer Scienc.<br>- Studying Machine Learning and Data Analysis with Python. </p>
+<p align="left">- Currently working with Java, Spring Boot and Python on HCM at Senior Sistemas.<br>- Bachelor of Computer Scienc.<br>- Studying Machine Learning and Data Analysis with Python. </p>
 
 ###
 
