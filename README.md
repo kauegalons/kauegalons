@@ -1,51 +1,26 @@
 <h2 align="left">About me</h2>
 
-```rust
+```python
 def main():
     name = "Kauê Galon Silva"
-    acknowledgements = "Computer Scientist"
-
-    location = "Remote"
+    role = "Software Engineer II"
+    degree = "B.Sc. Computer Science (2021–2025)"
     company = "Senior Sistemas"
     project = "HCM"
+    location = "Curitiba, Brazil (UTC-3) · Remote"
 
 ```
 
 ###
 
-<p align="left">- Currently working with Java, Spring Boot and Python on HCM at Senior Sistemas.<br>- Bachelor of Computer Scienc.<br>- Studying Machine Learning and Data Analysis with Python. </p>
+<p align="left">- Backend engineer working on Java / Spring Boot microservices in production.<br>- This profile is where I keep what I build and study outside work. </p>
 
 ###
 
-<h3 align="left">Technologies</h3>
 
-###
+**Let's connect!**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">Contact Information</h2>
-<div> 
-  <a href = "mailto:kauegalons@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/kauegalon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauegalon)
+[![Gmail](https://img.shields.io/badge/kauegalons@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kauegalons@gmail.com)
 
 ###
